@@ -1,3 +1,4 @@
+calling setting choose sim 
 # TeamsUserCallingSetting
 GUI tool to manage user calling setting in Teams
 
